@@ -95,5 +95,8 @@ npm start
 
 ---
 
+Screenshots:
+
+<img width="1365" height="767" alt="Screenshot 2025-07-12 152222" src="https://github.com/user-attachments/assets/41def21c-fd78-493e-bc9c-ecc1a9487a67" />
 
 
