@@ -12,9 +12,7 @@
 - 🔍 Read individual blog details
 - 🧼 Clean and responsive UI
 - 🌙 Dark/light mode (if applicable),AI integration for creating blog description
-- 
-
----
+  
 
 ## 🛠️ Tech Stack
 
